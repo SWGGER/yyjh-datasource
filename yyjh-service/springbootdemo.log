@@ -1,0 +1,43 @@
+2019/09/11-11:46 [main] INFO  com.zzxhm.yyjhservice.YyjhServiceApplicationTests- Starting YyjhServiceApplicationTests on DESKTOP-A7QRP9E with PID 11044 (started by dell in E:\IdeaWorkProjects\yyjh-datasource\yyjh-service)
+2019/09/11-11:46 [main] INFO  com.zzxhm.yyjhservice.YyjhServiceApplicationTests- No active profile set, falling back to default profiles: default
+2019/09/11-11:46 [main] INFO  org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker- Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$66a53a06] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019/09/11-11:46 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Initializing ExecutorService 'applicationTaskExecutor'
+2019/09/11-11:46 [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver- Exposing 2 endpoint(s) beneath base path '/actuator'
+2019/09/11-11:46 [main] INFO  com.zzxhm.yyjhservice.YyjhServiceApplicationTests- Started YyjhServiceApplicationTests in 10.636 seconds (JVM running for 12.508)
+2019/09/11-11:46 [Thread-2] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Shutting down ExecutorService 'applicationTaskExecutor'
+2019/09/11-11:48 [main] INFO  com.zzxhm.yyjhservice.YyjhServiceApplicationTests- Starting YyjhServiceApplicationTests on DESKTOP-A7QRP9E with PID 5572 (started by dell in E:\IdeaWorkProjects\yyjh-datasource\yyjh-service)
+2019/09/11-11:48 [main] INFO  com.zzxhm.yyjhservice.YyjhServiceApplicationTests- No active profile set, falling back to default profiles: default
+2019/09/11-11:48 [main] INFO  com.zzxhm.yyjhservice.YyjhServiceApplicationTests- Starting YyjhServiceApplicationTests on DESKTOP-A7QRP9E with PID 14884 (started by dell in E:\IdeaWorkProjects\yyjh-datasource\yyjh-service)
+2019/09/11-11:48 [main] INFO  com.zzxhm.yyjhservice.YyjhServiceApplicationTests- No active profile set, falling back to default profiles: default
+2019/09/11-11:48 [main] INFO  org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker- Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$f719c772] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019/09/11-11:48 [main] INFO  org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker- Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$eeb2cec6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019/09/11-11:48 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Initializing ExecutorService 'applicationTaskExecutor'
+2019/09/11-11:48 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Initializing ExecutorService 'applicationTaskExecutor'
+2019/09/11-11:48 [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver- Exposing 2 endpoint(s) beneath base path '/actuator'
+2019/09/11-11:48 [main] INFO  com.zzxhm.yyjhservice.YyjhServiceApplicationTests- Started YyjhServiceApplicationTests in 28.449 seconds (JVM running for 33.045)
+2019/09/11-11:48 [Thread-2] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Shutting down ExecutorService 'applicationTaskExecutor'
+2019/09/11-11:48 [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver- Exposing 2 endpoint(s) beneath base path '/actuator'
+2019/09/11-11:48 [main] INFO  com.zzxhm.yyjhservice.YyjhServiceApplicationTests- Started YyjhServiceApplicationTests in 22.489 seconds (JVM running for 27.756)
+2019/09/11-11:48 [Thread-2] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Shutting down ExecutorService 'applicationTaskExecutor'
+2019/09/11-11:52 [main] INFO  com.zzxhm.yyjhservice.YyjhServiceApplicationTests- Starting YyjhServiceApplicationTests on DESKTOP-A7QRP9E with PID 11096 (started by dell in E:\IdeaWorkProjects\yyjh-datasource\yyjh-service)
+2019/09/11-11:52 [main] INFO  com.zzxhm.yyjhservice.YyjhServiceApplicationTests- No active profile set, falling back to default profiles: default
+2019/09/11-11:52 [main] INFO  org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker- Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$22031c97] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019/09/11-11:52 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Initializing ExecutorService 'applicationTaskExecutor'
+2019/09/11-11:52 [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver- Exposing 2 endpoint(s) beneath base path '/actuator'
+2019/09/11-11:52 [main] INFO  com.zzxhm.yyjhservice.YyjhServiceApplicationTests- Started YyjhServiceApplicationTests in 10.328 seconds (JVM running for 12.263)
+2019/09/11-11:52 [main] INFO  com.zaxxer.hikari.HikariDataSource- DatebookHikariCP - Starting...
+2019/09/11-11:52 [main] INFO  com.zaxxer.hikari.HikariDataSource- DatebookHikariCP - Start completed.
+2019/09/11-11:52 [Thread-2] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Shutting down ExecutorService 'applicationTaskExecutor'
+2019/09/11-11:52 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource- DatebookHikariCP - Shutdown initiated...
+2019/09/11-11:52 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource- DatebookHikariCP - Shutdown completed.
+2019/09/11-11:53 [main] INFO  com.zzxhm.yyjhservice.YyjhServiceApplicationTests- Starting YyjhServiceApplicationTests on DESKTOP-A7QRP9E with PID 7972 (started by dell in E:\IdeaWorkProjects\yyjh-datasource\yyjh-service)
+2019/09/11-11:53 [main] INFO  com.zzxhm.yyjhservice.YyjhServiceApplicationTests- No active profile set, falling back to default profiles: default
+2019/09/11-11:53 [main] INFO  org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker- Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$7c5c85a6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019/09/11-11:53 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Initializing ExecutorService 'applicationTaskExecutor'
+2019/09/11-11:53 [main] INFO  org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver- Exposing 2 endpoint(s) beneath base path '/actuator'
+2019/09/11-11:53 [main] INFO  com.zzxhm.yyjhservice.YyjhServiceApplicationTests- Started YyjhServiceApplicationTests in 10.13 seconds (JVM running for 11.873)
+2019/09/11-11:53 [main] INFO  com.zaxxer.hikari.HikariDataSource- DatebookHikariCP - Starting...
+2019/09/11-11:53 [main] INFO  com.zaxxer.hikari.HikariDataSource- DatebookHikariCP - Start completed.
+2019/09/11-11:53 [Thread-2] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Shutting down ExecutorService 'applicationTaskExecutor'
+2019/09/11-11:53 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource- DatebookHikariCP - Shutdown initiated...
+2019/09/11-11:53 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource- DatebookHikariCP - Shutdown completed.
